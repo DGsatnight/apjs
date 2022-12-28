@@ -35,7 +35,19 @@
       "native_offadmob_max" : "5b89a14f71efd8ba",
       "banner_offadmob_max" : "fdea894f789884cd",
       "inter_offadmob_max" : "a64fb4c15512e507",
-      "reward_offadmob_max" : "a232b23f046792bf"
+      "reward_offadmob_max" : "a232b23f046792bf",
+      "on_off_native_on_list_admob" : "0",
+      "on_off_banner_native_admob" : "1",
+      "on_off_inter_admob" : "1",
+      "on_off_rewards_admob" : "1",
+      "on_off_medium_native_lyric_admob" : "0",
+      "on_off_medium_native_main_admob" : "1",
+      "on_off_medium_native_coin_admob" : "1",
+      "on_off_native_on_list" : "1",
+      "on_off_banner_native" : "1",
+      "on_off_medium_native_lyric" : "1",
+      "on_off_medium_native_main" : "1",
+      "on_off_medium_native_coin" : "1"
     }
   ],
   "More" : [
