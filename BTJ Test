@@ -31,6 +31,8 @@
       "coins" : 500,
       "reward_coins_for_video_ads" : 100,
       "coin_download_item" : 200
+      "med_native_offadmob_max" : "5b89a14f71efd8ba",
+
     }
   ],
   "More" : [
