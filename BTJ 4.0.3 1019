@@ -1,19 +1,18 @@
 {
   "Ads" : [
-    "Ads" : [
     {
-      "select_main_ads" : "ADMOB",
-      "select_backup_ads" : "APPLOVIN-M",
-      "main_ads_banner" : "ca-app-pub-3940256099942544/6300978111",
-      "main_ads_intertitial" : "ca-app-pub-6368015574317946/4155871465",
-      "main_ads_natives" : "ca-app-pub-6368015574317946/7635837508",
-      "main_ads_medium_natives" : "ca-app-pub-6368015574317946/7635837508",
-      "main_ads_rewards" : "ca-app-pub-6368015574317946/3385715279",
-      "backup_ads_natives" : "5b89a14f71efd8ba",
-      "backup_ads_medium_natives" : "5b89a14f71efd8ba",
-      "backup_ads_banner" : "fdea894f789884cd",
-      "backup_ads_intertitial" : "a64fb4c15512e507",
-      "backup_ads_rewards" : "a232b23f046792bf",
+      "select_main_ads" : "",
+      "select_backup_ads" : "",
+      "main_ads_banner" : "",
+      "main_ads_intertitial" : "",
+      "main_ads_natives" : "",
+      "main_ads_medium_natives" : "",
+      "main_ads_rewards" : "",
+      "backup_ads_natives" : "",
+      "backup_ads_medium_natives" : "",
+      "backup_ads_banner" : "",
+      "backup_ads_intertitial" : "",
+      "backup_ads_rewards" : "",
       "open_ads_admob" : "null",
       "open_ads_alien" : "null",
       "switch_open_ads" : "2",
@@ -32,11 +31,11 @@
       "coins" : 500,
       "reward_coins_for_video_ads" : 100,
       "coin_download_item" : 200,
-      "med_native_offadmob_max" : "5b89a14f71efd8ba",
-      "native_offadmob_max" : "5b89a14f71efd8ba",
-      "banner_offadmob_max" : "fdea894f789884cd",
-      "inter_offadmob_max" : "a64fb4c15512e507",
-      "reward_offadmob_max" : "a232b23f046792bf",
+      "med_native_offadmob_max" : "",
+      "native_offadmob_max" : "",
+      "banner_offadmob_max" : "",
+      "inter_offadmob_max" : "",
+      "reward_offadmob_max" : "",
       "on_off_native_on_list_admob" : "0",
       "on_off_banner_native_admob" : "0",
       "on_off_inter_admob" : "1",
@@ -67,6 +66,72 @@
     }
   ],
   "Data" : [
+    {
+      "id" : 1,
+      "name_category" : "New Release",
+      "title" : "Im Good Boy",
+      "image" : "file:///android_asset/image/iconsong.jpg",
+      "link_mp3" : "https://archive.org/download/bts_ringtone/v_i_m_good_boy.mp3",
+      "duration" : "",
+      "lyrics" : ""
+    }
+  ],
+  "NewRelease" : [
+    {
+      "id" : 1,
+      "name_category" : "New Release",
+      "title" : "Im Good Boy",
+      "image" : "file:///android_asset/image/iconsong.jpg",
+      "link_mp3" : "https://archive.org/download/bts_ringtone/v_i_m_good_boy.mp3",
+      "duration" : "",
+      "lyrics" : ""
+    }
+  ],
+  "Japanese" : [
+    {
+      "id" : 1,
+      "name_category" : "New Release",
+      "title" : "Im Good Boy",
+      "image" : "file:///android_asset/image/iconsong.jpg",
+      "link_mp3" : "https://archive.org/download/bts_ringtone/v_i_m_good_boy.mp3",
+      "duration" : "",
+      "lyrics" : ""
+    }
+  ],
+  "CheerUp" : [
+    {
+      "id" : 1,
+      "name_category" : "New Release",
+      "title" : "Im Good Boy",
+      "image" : "file:///android_asset/image/iconsong.jpg",
+      "link_mp3" : "https://archive.org/download/bts_ringtone/v_i_m_good_boy.mp3",
+      "duration" : "",
+      "lyrics" : ""
+    }
+  ],
+  "SoftMellow" : [
+    {
+      "id" : 1,
+      "name_category" : "New Release",
+      "title" : "Im Good Boy",
+      "image" : "file:///android_asset/image/iconsong.jpg",
+      "link_mp3" : "https://archive.org/download/bts_ringtone/v_i_m_good_boy.mp3",
+      "duration" : "",
+      "lyrics" : ""
+    }
+  ],
+  "SoloCover" : [
+    {
+      "id" : 1,
+      "name_category" : "New Release",
+      "title" : "Im Good Boy",
+      "image" : "file:///android_asset/image/iconsong.jpg",
+      "link_mp3" : "https://archive.org/download/bts_ringtone/v_i_m_good_boy.mp3",
+      "duration" : "",
+      "lyrics" : ""
+    }
+  ],
+  "Underrated" : [
     {
       "id" : 1,
       "name_category" : "New Release",
