@@ -62,14 +62,14 @@
   "Categories" : [
     {
       "id" : 1,
-      "name_category" : "1",
+      "name_category" : "New Release",
       "image" : "https://archive.org/download/bts_ringtone/ringtone.jpg"
     }
   ],
   "Data" : [
     {
       "id" : 1,
-      "name_category" : "1",
+      "name_category" : "New Release",
       "title" : "Im Good Boy",
       "image" : "file:///android_asset/image/iconsong.jpg",
       "link_mp3" : "https://archive.org/download/bts_ringtone/v_i_m_good_boy.mp3",
