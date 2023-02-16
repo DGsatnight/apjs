@@ -1,0 +1,80 @@
+{
+  "Ads" : [
+    "Ads" : [
+    {
+      "select_main_ads" : "",
+      "select_backup_ads" : "",
+      "main_ads_banner" : "",
+      "main_ads_intertitial" : "",
+      "main_ads_natives" : "",
+      "main_ads_medium_natives" : "",
+      "main_ads_rewards" : "",
+      "backup_ads_natives" : "",
+      "backup_ads_medium_natives" : "",
+      "backup_ads_banner" : "",
+      "backup_ads_intertitial" : "",
+      "backup_ads_rewards" : "",
+      "open_ads_admob" : "null",
+      "open_ads_alien" : "null",
+      "switch_open_ads" : "2",
+      "switch_banner_natives_ads" : "2",
+      "interval_intertitial" : 4,
+      "interval_natives" : 10,
+      "initialize_sdk" : "",
+      "initialize_sdk_backup_ads" : "",
+      "high_paying_keyword_1" : "",
+      "high_paying_keyword_2" : "",
+      "high_paying_keyword_3" : "",
+      "high_paying_keyword_4" : "",
+      "high_paying_keyword_5" : "",
+      "status_app" : "0",
+      "link_redirect" : "https://play.google.com/store/apps/details?id=com.naoreenapps.btsarmy",
+      "coins" : 500,
+      "reward_coins_for_video_ads" : 100,
+      "coin_download_item" : 200,
+      "med_native_offadmob_max" : "",
+      "native_offadmob_max" : "",
+      "banner_offadmob_max" : "",
+      "inter_offadmob_max" : "",
+      "reward_offadmob_max" : "",
+      "on_off_native_on_list_admob" : "0",
+      "on_off_banner_native_admob" : "0",
+      "on_off_inter_admob" : "1",
+      "on_off_rewards_admob" : "1",
+      "on_off_medium_native_lyric_admob" : "0",
+      "on_off_medium_native_main_admob" : "1",
+      "on_off_medium_native_coin_admob" : "0",
+      "on_off_native_on_list" : "1",
+      "on_off_banner_native" : "1",
+      "on_off_medium_native_lyric" : "1",
+      "on_off_medium_native_main" : "1",
+      "on_off_medium_native_coin" : "1"
+    }
+  ],
+  "More" : [
+    {
+      "id" : 0,
+      "title" : "",
+      "image" : "",
+      "link" : ""
+    }
+  ],
+  "Categories" : [
+    {
+      "id" : 1,
+      "name_category" : "1",
+      "image" : "https://archive.org/download/bts_ringtone/ringtone.jpg"
+    }
+  ],
+  "Data" : [
+    {
+      "id" : 1,
+      "name_category" : "1",
+      "title" : "Im Good Boy",
+      "image" : "file:///android_asset/image/iconsong.jpg",
+      "link_mp3" : "https://archive.org/download/bts_ringtone/v_i_m_good_boy.mp3",
+      "duration" : "",
+      "lyrics" : ""
+    }
+  ]
+}
