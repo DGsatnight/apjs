@@ -64,6 +64,12 @@
       "title" : "prom",
       "image" : "https://archive.org/download/promotion-slide/Promotion1.jpg",
       "link" : "https:"
+    },
+    {
+      "id" : 1,
+      "title" : "prom",
+      "image" : "https://archive.org/download/promotion-slide/Promotion1.jpg",
+      "link" : "https:"
     }
   ],
   "Categories" : [
