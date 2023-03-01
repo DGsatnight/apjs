@@ -66,80 +66,24 @@
     }
   ],
   "Data" : [
-    {
-      "id" : 1,
-      "name_category" : "New Release",
-      "title" : "Im Good Boy",
-      "image" : "file:///android_asset/image/iconsong.jpg",
-      "link_mp3" : "",
-      "duration" : "",
-      "lyrics" : ""
-    }
+    
   ],
   "NewRelease" : [
-    {
-      "id" : 1,
-      "name_category" : "New Release",
-      "title" : "Im Good Boy",
-      "image" : "file:///android_asset/image/iconsong.jpg",
-      "link_mp3" : "",
-      "duration" : "",
-      "lyrics" : ""
-    }
+    
   ],
   "Japanese" : [
-    {
-      "id" : 1,
-      "name_category" : "New Release",
-      "title" : "Im Good Boy",
-      "image" : "file:///android_asset/image/iconsong.jpg",
-      "link_mp3" : "",
-      "duration" : "",
-      "lyrics" : ""
-    }
+    
   ],
   "CheerUp" : [
-    {
-      "id" : 1,
-      "name_category" : "New Release",
-      "title" : "Im Good Boy",
-      "image" : "file:///android_asset/image/iconsong.jpg",
-      "link_mp3" : "",
-      "duration" : "",
-      "lyrics" : ""
-    }
+    
   ],
   "SoftMellow" : [
-    {
-      "id" : 1,
-      "name_category" : "New Release",
-      "title" : "Im Good Boy",
-      "image" : "file:///android_asset/image/iconsong.jpg",
-      "link_mp3" : "",
-      "duration" : "",
-      "lyrics" : ""
-    }
+    
   ],
   "SoloCover" : [
-    {
-      "id" : 1,
-      "name_category" : "New Release",
-      "title" : "Im Good Boy",
-      "image" : "file:///android_asset/image/iconsong.jpg",
-      "link_mp3" : "",
-      "duration" : "",
-      "lyrics" : ""
-    }
+    
   ],
   "Underrated" : [
-    {
-      "id" : 1,
-      "name_category" : "New Release",
-      "title" : "Im Good Boy",
-      "image" : "file:///android_asset/image/iconsong.jpg",
-      "link_mp3" : "",
-      "duration" : "",
-      "lyrics" : ""
-    }
+    
   ]
 }
