@@ -53,9 +53,9 @@
   "More" : [
     {
       "id" : 0,
-      "title" : "",
-      "image" : "",
-      "link" : ""
+      "title" : "BTS Song",
+      "image" : "https://play-lh.googleusercontent.com/lNHX1DKcXwSaVV3Ei4gD8KJ8FrF-4UVMmltNom5_UNAeTw-3fNWITH_7LRHtBD_ApJg=w480-h960-rw",
+      "link" : "https://play.google.com/store/apps/details?id=com.naoreenapps.btsarmy"
     }
   ],
   "Categories" : [
