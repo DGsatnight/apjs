@@ -53,17 +53,17 @@
   "More" : [
     {
       "id" : 0,
-      "title" : "BTS Song",
-      "image" : "https://drive.google.com/file/d/1imSO2f51RtIr7381fNgVMOWUBj0Ya6XE/view?usp=sharing",
-      "link" : ""
+      "title" : "prom",
+      "image" : "https://archive.org/download/promotion-slide/Promotion1.jpg",
+      "link" : "https:"
     }
   ],
   "Slide" : [
     {
       "id" : 0,
-      "title" : "BTS Song",
-      "image" : "https://drive.google.com/file/d/1imSO2f51RtIr7381fNgVMOWUBj0Ya6XE/view?usp=sharing",
-      "link" : ""
+      "title" : "prom",
+      "image" : "https://archive.org/download/promotion-slide/Promotion1.jpg",
+      "link" : "https:"
     }
   ],
   "Categories" : [
