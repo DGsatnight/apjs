@@ -68,6 +68,12 @@
       "title" : "prom1",
       "image" : "https://archive.org/download/promotion-slide/Promotion1.jpg",
       "link" : ""
+    },
+    {
+      "id" : 1,
+      "title" : "prom2",
+      "image" : "https://archive.org/download/bts_ringtone/ringtone.jpg",
+      "link" : ""
     }
   ],
   "Categories" : [
