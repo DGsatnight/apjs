@@ -40,11 +40,11 @@
       "on_off_banner_native_admob" : "0",
       "on_off_inter_admob" : "1",
       "on_off_rewards_admob" : "1",
-      "on_off_medium_native_lyric_admob" : "0",
+      "on_off_medium_native_lyric_admob" : "1",
       "on_off_medium_native_main_admob" : "1",
       "on_off_medium_native_category_admob" : "1",
       "on_off_medium_native_more_admob" : "1",
-      "on_off_medium_native_coin_admob" : "0",
+      "on_off_medium_native_coin_admob" : "1",
       "on_off_native_on_list" : "1",
       "on_off_banner_native" : "1",
       "on_off_medium_native_lyric" : "1",
@@ -58,7 +58,7 @@
     {
       "id" : 0,
       "title" : "More",
-      "image" : "https://archive.org/download/promotion-slide/Promotion1.jpg",
+      "image" : "https://archive.org/download/bts_ringtone/ringtone.jpg",
       "link" : "https:"
     }
   ],
@@ -66,14 +66,8 @@
     {
       "id" : 0,
       "title" : "prom1",
-      "image" : "https://archive.org/download/category_for_bts/japanese.jpeg",
+      "image" : "https://archive.org/download/promotion-slide/Promotion1.jpg",
       "link" : ""
-    },
-    {
-      "id" : 2,
-      "title" : "prom2",
-      "image" : "https://archive.org/download/category_for_bts/underrated.jpg",
-      "link" : "https://play.google.com/store/apps/details?id=com.naoreenapps.btsarmy"
     }
   ],
   "Categories" : [
