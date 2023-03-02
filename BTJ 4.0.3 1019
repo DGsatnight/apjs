@@ -66,13 +66,13 @@
     {
       "id" : 0,
       "title" : "prom",
-      "image" : "https://archive.org/download/bts_ringtone/ringtone.jpg",
+      "image" : "https://archive.org/download/promotion-slide/Promotion1.jpg",
       "link" : "https://play.google.com/store/apps/details?id=com.naoreenapps.btsarmy"
     },
     {
       "id" : 1,
       "title" : "prom",
-      "image" : "https://archive.org/download/promotion-slide/Promotion1.jpg",
+      "image" : "https://archive.org/download/bts_ringtone/ringtone.jpg",
       "link" : "https:"
     }
   ],
