@@ -42,11 +42,15 @@
       "on_off_rewards_admob" : "1",
       "on_off_medium_native_lyric_admob" : "0",
       "on_off_medium_native_main_admob" : "1",
+      "on_off_medium_native_category_admob" : "1",
+      "on_off_medium_native_more_admob" : "1",
       "on_off_medium_native_coin_admob" : "0",
       "on_off_native_on_list" : "1",
       "on_off_banner_native" : "1",
       "on_off_medium_native_lyric" : "1",
       "on_off_medium_native_main" : "1",
+      "on_off_medium_native_category" : "1",
+      "on_off_medium_native_more" : "1",
       "on_off_medium_native_coin" : "1"
     }
   ],
@@ -63,7 +67,7 @@
       "id" : 0,
       "title" : "prom",
       "image" : "https://archive.org/download/bts_ringtone/ringtone.jpg",
-      "link" : ""
+      "link" : "https://play.google.com/store/apps/details?id=com.naoreenapps.btsarmy""
     },
     {
       "id" : 1,
